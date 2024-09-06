@@ -1,2 +1,2 @@
 # frontend-whammy
-frontned nextjs project
+frontend NextJS project
