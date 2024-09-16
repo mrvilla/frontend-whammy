@@ -9,6 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        airbnb:"#FF385C",
+        airbnb_dark:"#D50027",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
